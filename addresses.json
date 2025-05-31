@@ -1,0 +1,296 @@
+[
+  {
+    "name": "ABRIL-21 PELUQUERÍA Y ESTÉTICA",
+    "address": "AV MALVARROSA, 31",
+    "lat": 39.4770283,
+    "lng": -0.3283634
+  },
+  {
+    "name": "ALIMENTACIÓN CRISTINO",
+    "address": "AVENIDA MALVARROSA 22",
+    "lat": 39.4758449,
+    "lng": -0.3277421
+  },
+  {
+    "name": "AMAZONAS MALVARROSA",
+    "address": "AVENIDA DE LA MALVARROSA, 64",
+    "lat": 39.4797408,
+    "lng": -0.3279719
+  },
+  {
+    "name": "ARTESANIA VIANA, S.L.",
+    "address": "AVDA. MALVARROSA, Nº 65 BAJO",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "BAR AVENIDA",
+    "address": "AVDA MALVARROSA, 108",
+    "lat": 39.4819724,
+    "lng": -0.3279648
+  },
+  {
+    "name": "BAR EL MOSTO",
+    "address": "AVENIDA MALVARROSA 37",
+    "lat": 39.4758449,
+    "lng": -0.3277421
+  },
+  {
+    "name": "BAR GRAN CANARIA",
+    "address": "C/ GRAN CANARIA, 42",
+    "lat": 39.4835589,
+    "lng": -0.3287978
+  },
+  {
+    "name": "BAR LA TRAVESIA",
+    "address": "CL LANZAROTE 3",
+    "lat": 39.4808614,
+    "lng": -0.3287338
+  },
+  {
+    "name": "BAR RESTAURANTE JJR",
+    "address": "CALLE MENDIZÁBAL 36",
+    "lat": 39.4841615,
+    "lng": -0.3308081
+  },
+  {
+    "name": "CAFETERÍA CASA TONI",
+    "address": "AV MALVARROSA, 77",
+    "lat": 39.4804561,
+    "lng": -0.3281335
+  },
+  {
+    "name": "CALZADOS ANYO",
+    "address": "CL LANZAROTE, 1",
+    "lat": 39.4808614,
+    "lng": -0.3287338
+  },
+  {
+    "name": "CARNICERÍA CEBALLOS",
+    "address": "AV/ MALVARROSA, 58",
+    "lat": 39.4795087,
+    "lng": -0.3279655
+  },
+  {
+    "name": "CARNICERÍA CRIS",
+    "address": "CL LANZAROTE 3",
+    "lat": 39.4808614,
+    "lng": -0.3287338
+  },
+  {
+    "name": "CASA PLANES",
+    "address": "AV.DE LA MALVA-ROSA, 78, POBLATS MARÍTIMS",
+    "lat": 39.4803795,
+    "lng": -0.3279692
+  },
+  {
+    "name": "CENTRO OPTICO MALVARROSA",
+    "address": "AVDA MALVARROSA 78 BAJO",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "CLÍNICA GARBÍ",
+    "address": "AVENIDA MALVARROSA 104 BAJO DERECHA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "CUCO MALVARROSA",
+    "address": "AVENIDA MALVARROSA N82BJ IZ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "DIMARI",
+    "address": "CALLE BERENGUER DE MONTOLIU 28 BAJO.",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "EL SAQUET DE PA",
+    "address": "AV.MALVARROSA , 61 B-IZQ",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "EUROFRUTA",
+    "address": "AVDA MALVARROSA 20",
+    "lat": 39.4758449,
+    "lng": -0.3277421
+  },
+  {
+    "name": "FARMACIA MALVARROSA",
+    "address": "AVD. MALVARROSA 106, BAJO",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "FERRETERÍA ESTER",
+    "address": "C/ GRAN CANARIA, 34",
+    "lat": 39.4827382,
+    "lng": -0.3289705
+  },
+  {
+    "name": "FRUTAS SELECTAS DEL LABRADOR-LA FRUTERI",
+    "address": "AVENIDA MALVARROSA 16",
+    "lat": 39.4758449,
+    "lng": -0.3277421
+  },
+  {
+    "name": "FRUTERÍA DANIAL",
+    "address": "AVENIDA DE LA MALVARROSA, 60",
+    "lat": 39.4795533,
+    "lng": -0.3279758
+  },
+  {
+    "name": "FRUTERÍA TERE",
+    "address": "AVENIDA MALVARROSA, 66",
+    "lat": 39.4797894,
+    "lng": -0.3279644
+  },
+  {
+    "name": "GIRASOL",
+    "address": "AVENIDA DE LA MALVARROSA, 69",
+    "lat": 39.4800437,
+    "lng": -0.3281342
+  },
+  {
+    "name": "HORNO PASTELERÍA MOLINER",
+    "address": "AV. MALVARROSA, 19",
+    "lat": 39.4758449,
+    "lng": -0.3277421
+  },
+  {
+    "name": "IVAN SANCHEZ BEAUTY STUDIO",
+    "address": "AVDA MALVARROSA, 50 BAJO",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "KIOSKO MALVARROSA",
+    "address": "C/ FUENTE ENCARROZ, 3",
+    "lat": 39.4814123,
+    "lng": -0.3277527
+  },
+  {
+    "name": "LA CUINA DEL KINTANA",
+    "address": "AVENIDA MALVARROSA 44",
+    "lat": 39.4789157,
+    "lng": -0.3279547
+  },
+  {
+    "name": "LIBERIA PAPELERIA MALVARROSA",
+    "address": "AVENIDA MALVARROSA, 35 BAJO IZQUIERDO",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "LUCIA HOMEWEAR",
+    "address": "AVENIDA .MALVARROSA N°62",
+    "lat": 39.4758449,
+    "lng": -0.3277421
+  },
+  {
+    "name": "MAMEN GARCÉS PELUQUERA",
+    "address": "AVD. MALVARROSA, 59 BAIO",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "MENEJA´T FIT",
+    "address": "CALLE CAVITE, 67",
+    "lat": 39.4796087,
+    "lng": -0.3268256
+  },
+  {
+    "name": "MJ ESTILISTA",
+    "address": "C/ GRAN CANARIA, 34",
+    "lat": 39.4827382,
+    "lng": -0.3289705
+  },
+  {
+    "name": "MODA BALAGUER",
+    "address": "AV/ MALVARROSA, 120",
+    "lat": 39.4825988,
+    "lng": -0.3278957
+  },
+  {
+    "name": "MZ BEATY EXPERIENCE",
+    "address": "CL INGENIERO MANUEL MAESE, 15",
+    "lat": 39.4832697,
+    "lng": -0.3297979
+  },
+  {
+    "name": "OCEAN REPUBLIK",
+    "address": "C/ DE MENDIZÁBAL, 41",
+    "lat": 39.483428,
+    "lng": -0.326691
+  },
+  {
+    "name": "ÓPTICA VISTA A LA MAR",
+    "address": "AVD. DE LA MALVARROSA, 116 BAJO",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "PELUQUERÍA ENCARNA",
+    "address": "C/LANZAROTE N.3 BAJO",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "PELUQUERÍA PACO ESTEVE",
+    "address": "C/ FUENTE ENCARROZ, 1",
+    "lat": 39.4813388,
+    "lng": -0.3264637
+  },
+  {
+    "name": "PERSONAL PELUQUERAS",
+    "address": "AV MALVARROSA 100",
+    "lat": 39.4814499,
+    "lng": -0.327952
+  },
+  {
+    "name": "PESCADERÍA TONICA",
+    "address": "AVDA MALVARROSA 63",
+    "lat": 39.4798414,
+    "lng": -0.3281451
+  },
+  {
+    "name": "RINCÓN DE ADRIANA",
+    "address": "AV. MALVARROSA, 52",
+    "lat": 39.4792414,
+    "lng": -0.3279551
+  },
+  {
+    "name": "SUPERBOTELLA",
+    "address": "AVENIDA MALVARROSA 121 BAJO",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "TIENDA JUAN Y ANA",
+    "address": "C/ GRAN CANARIA, 40",
+    "lat": 39.4833584,
+    "lng": -0.3288424
+  },
+  {
+    "name": "VYS CENTRO DE BELLEZA",
+    "address": "AV. MALVARROSA, 75",
+    "lat": 39.4803296,
+    "lng": -0.3281269
+  },
+  {
+    "name": "YOBO MALVARROSA",
+    "address": "AVDA MALVARROSA 64 BAJO",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "ZOME STUDIO",
+    "address": "AV. MALVARROSA, 29",
+    "lat": 39.4769302,
+    "lng": -0.3283638
+  }
+]
