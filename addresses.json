@@ -8,8 +8,8 @@
   {
     "name": "ALIMENTACIÓN CRISTINO",
     "address": "AVENIDA MALVARROSA 22",
-    "lat": 39.4758449,
-    "lng": -0.3277421
+    "lat": 39.4779876,
+    "lng": -0.3280492
   },
   {
     "name": "AMAZONAS MALVARROSA",
@@ -32,8 +32,8 @@
   {
     "name": "BAR EL MOSTO",
     "address": "AVENIDA MALVARROSA 37",
-    "lat": 39.4758449,
-    "lng": -0.3277421
+    "lat": 39.4756306,
+    "lng": -0.3294112
   },
   {
     "name": "BAR GRAN CANARIA",
@@ -50,8 +50,8 @@
   {
     "name": "BAR RESTAURANTE JJR",
     "address": "CALLE MENDIZÁBAL 36",
-    "lat": 39.4841615,
-    "lng": -0.3308081
+    "lat": 39.4843771,
+    "lng": -0.3312878
   },
   {
     "name": "CAFETERÍA CASA TONI",
@@ -96,6 +96,12 @@
     "lng": null
   },
   {
+    "name": "COCO NAILS",
+    "address": "AVE MALVARROSA 123 BAJO",
+    "lat": null,
+    "lng": null
+  },
+  {
     "name": "CUCO MALVARROSA",
     "address": "AVENIDA MALVARROSA N82BJ IZ",
     "lat": null,
@@ -116,8 +122,8 @@
   {
     "name": "EUROFRUTA",
     "address": "AVDA MALVARROSA 20",
-    "lat": 39.4758449,
-    "lng": -0.3277421
+    "lat": 39.4779876,
+    "lng": -0.3280492
   },
   {
     "name": "FARMACIA MALVARROSA",
@@ -132,10 +138,22 @@
     "lng": -0.3289705
   },
   {
+    "name": "FERRETERIA MALVA HOGAR",
+    "address": "AV MALVARROSA Nº 48",
+    "lat": 39.475962,
+    "lng": -0.3314463
+  },
+  {
     "name": "FRUTAS SELECTAS DEL LABRADOR-LA FRUTERI",
     "address": "AVENIDA MALVARROSA 16",
-    "lat": 39.4758449,
-    "lng": -0.3277421
+    "lat": 39.4779876,
+    "lng": -0.3280492
+  },
+  {
+    "name": "FRUTAS TAJO 34",
+    "address": "CALLE RIO TAJO, 34",
+    "lat": 39.6661393,
+    "lng": -0.2107944
   },
   {
     "name": "FRUTERÍA DANIAL",
@@ -156,10 +174,16 @@
     "lng": -0.3281342
   },
   {
+    "name": "HORCHATERIA MALVARROSA 18",
+    "address": "AVENIDA MALVARROSA 18",
+    "lat": 39.4779876,
+    "lng": -0.3280492
+  },
+  {
     "name": "HORNO PASTELERÍA MOLINER",
     "address": "AV. MALVARROSA, 19",
-    "lat": 39.4758449,
-    "lng": -0.3277421
+    "lat": 39.4779876,
+    "lng": -0.3280492
   },
   {
     "name": "IVAN SANCHEZ BEAUTY STUDIO",
@@ -188,8 +212,8 @@
   {
     "name": "LUCIA HOMEWEAR",
     "address": "AVENIDA .MALVARROSA N°62",
-    "lat": 39.4758449,
-    "lng": -0.3277421
+    "lat": 39.475962,
+    "lng": -0.3314463
   },
   {
     "name": "MAMEN GARCÉS PELUQUERA",
@@ -200,8 +224,8 @@
   {
     "name": "MENEJA´T FIT",
     "address": "CALLE CAVITE, 67",
-    "lat": 39.4796087,
-    "lng": -0.3268256
+    "lat": 39.4796371,
+    "lng": -0.3267987
   },
   {
     "name": "MJ ESTILISTA",
@@ -218,8 +242,8 @@
   {
     "name": "MZ BEATY EXPERIENCE",
     "address": "CL INGENIERO MANUEL MAESE, 15",
-    "lat": 39.4832697,
-    "lng": -0.3297979
+    "lat": null,
+    "lng": null
   },
   {
     "name": "OCEAN REPUBLIK",
@@ -258,6 +282,12 @@
     "lng": -0.3281451
   },
   {
+    "name": "PINTURAS PINTA DEKOR",
+    "address": "AVENIDA DE LOS NARANJOS 45",
+    "lat": 39.475962,
+    "lng": -0.3314463
+  },
+  {
     "name": "RINCÓN DE ADRIANA",
     "address": "AV. MALVARROSA, 52",
     "lat": 39.4792414,
@@ -270,6 +300,12 @@
     "lng": null
   },
   {
+    "name": "SURYA YOGA",
+    "address": "CALLE CAVITE, 175",
+    "lat": 39.4831187,
+    "lng": -0.3266936
+  },
+  {
     "name": "TIENDA JUAN Y ANA",
     "address": "C/ GRAN CANARIA, 40",
     "lat": 39.4833584,
@@ -280,6 +316,12 @@
     "address": "AV. MALVARROSA, 75",
     "lat": 39.4803296,
     "lng": -0.3281269
+  },
+  {
+    "name": "YOBO ALIMENTACION",
+    "address": "AVDA MALVARROSA 66 BAJO",
+    "lat": null,
+    "lng": null
   },
   {
     "name": "YOBO MALVARROSA",
